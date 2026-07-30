@@ -10,6 +10,8 @@
   </a>
   <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
@@ -18,7 +20,7 @@
 
 I'm focused on building reliable, structured software for real-world operations — especially systems involving inventory, tools, consumables, users, locations, transactions, and database-backed workflows.
 
-My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean data contracts for practical business applications.
+My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean data contracts for practical business applications, while also maintaining practical JavaScript/HTML reference projects.
 
 ---
 
@@ -29,6 +31,8 @@ My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -66,6 +70,11 @@ My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean 
 **Primary language:** —  
 **Updated:** 2014-07-25
 
+### 🔹 [my-javascript-cheatsheets](https://github.com/DrummerProg0512/my-javascript-cheatsheets)
+**Description:** JavaScript and HTML cheatsheet/reference repository  
+**Primary language:** JavaScript (77.9%), HTML (22.1%)  
+**Updated:** 2026-07-30
+
 ---
 
 ## 🔒 Private Repositories
@@ -98,6 +107,7 @@ I also actively work on private repositories. Their details stay private, but cu
 - Strengthening database architecture with clear stored procedure contracts
 - Building maintainable C# models for data-driven applications
 - Improving structure around SQL Server-backed business systems
+- Growing practical JavaScript and HTML reference material
 
 ---
 
