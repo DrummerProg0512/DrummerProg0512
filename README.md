@@ -106,3 +106,10 @@ These projects reflect my focus on building maintainable, structured software th
 <p align="center">
   <strong>Building practical software for organized, reliable operations.</strong>
 </p>
+
+---
+## 🔹 Other Public Projects
+
+### 🔸 my-javascript-cheatsheets
+A compact collection of JavaScript examples and quick-reference notes to speed development and debugging.
+
