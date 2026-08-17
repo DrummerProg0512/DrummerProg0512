@@ -10,6 +10,8 @@
   </a>
   <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
@@ -18,7 +20,7 @@
 
 I'm focused on building reliable, structured software for real-world operations — especially systems involving inventory, tools, consumables, users, locations, transactions, and database-backed workflows.
 
-My public and private work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean data contracts for practical business applications.
+My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean data contracts for practical business applications, while also maintaining practical JavaScript/HTML reference projects.
 
 ---
 
@@ -29,56 +31,61 @@ My public and private work centers around C#/.NET, SQL Server, T-SQL, stored pro
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Public Work
+## 📁 Repositories
 
 ### 🔹 [OpenCrib](https://github.com/DrummerProg0512/OpenCrib)
-
-A tools and consumables management application focused on structured inventory, storage locations, transactions, users, and asset tracking.
-
-**Highlights:**
-
-- .NET models layer with DTOs, request models, and response models
-- SQL-backed workflow for parts, assets, transactions, users, and locations
-- Designed around stored procedure contracts and clean application boundaries
-
----
+**Description:** Tools and consumables management application  
+**Primary language:** TSQL  
+**Updated:** 2026-07-26
 
 ### 🔹 [ToolCrib.DB](https://github.com/DrummerProg0512/ToolCrib.DB)
+**Description:** ToolCrib Database  
+**Primary language:** TSQL  
+**Updated:** 2026-07-12
 
-SQL Server database layer for a tool crib management system.
+### 🔹 [DrummerProg0512](https://github.com/DrummerProg0512/DrummerProg0512)
+**Description:** Profile repository (this page)  
+**Primary language:** —  
+**Updated:** 2026-07-19
 
-**Highlights:**
+### 🔹 [Simple-Encryption-Decryption-Tool.-ConsoleApp](https://github.com/DrummerProg0512/Simple-Encryption-Decryption-Tool.-ConsoleApp)
+**Description:** Simple C# console app for encryption/decryption workflow exploration  
+**Primary language:** C#  
+**Updated:** 2022-12-28
 
-- T-SQL stored procedures for inserts, selects, and updates
-- Indexing strategy for users, parts, transactions, locations, and attachments
-- Database-first foundation for inventory and operational systems
+### 🔹 [gitignore](https://github.com/DrummerProg0512/gitignore)
+**Description:** Fork of github/gitignore (template collection)  
+**Primary language:** —  
+**Updated:** 2021-08-18
+
+### 🔹 [AccountingCalendarMexico](https://github.com/DrummerProg0512/AccountingCalendarMexico)
+**Description:** —  
+**Primary language:** —  
+**Updated:** 2014-07-25
+
+### 🔹 [my-javascript-cheatsheets](https://github.com/DrummerProg0512/my-javascript-cheatsheets)
+**Description:** JavaScript and HTML cheatsheet/reference repository  
+**Primary language:** JavaScript (77.9%), HTML (22.1%)  
+**Updated:** 2026-07-30
 
 ---
 
-### 🔹 [Simple Encryption / Decryption Console App](https://github.com/DrummerProg0512/Simple-Encryption-Decryption-Tool.-ConsoleApp)
+## 🔒 Private Repositories
 
-A C# console application exploring encryption and decryption workflows.
-
----
-
-## 🔒 Private Work
-
-In addition to my public repositories, I also work on private projects focused on business operations, database-backed applications, and internal tooling.
-
-**Private project themes include:**
+I also actively work on private repositories. Their details stay private, but current areas include:
 
 - Inventory and asset tracking systems
 - SQL Server database design and stored procedure development
-- C# / .NET data models, DTOs, request and response contracts
-- Internal workflow tools for organizing users, locations, transactions, parts, and attachments
-- Practical automation and utilities for improving day-to-day operations
-
-These projects reflect my focus on building maintainable, structured software that supports real operational needs while keeping sensitive implementation details private.
+- C# / .NET APIs, models, DTOs, request and response contracts
+- Internal workflow tools for users, locations, transactions, and attachments
+- Practical business automation utilities
 
 ---
 
@@ -96,10 +103,11 @@ These projects reflect my focus on building maintainable, structured software th
 
 ## 🎯 Current Focus
 
-- Building **OpenCrib** into a complete tools and consumables management platform
-- Strengthening database architecture with clean stored procedure contracts
-- Creating maintainable C# models for data-driven applications
-- Improving full-stack structure around SQL Server-backed business systems
+- Expanding **OpenCrib** into a complete tools and consumables management platform
+- Strengthening database architecture with clear stored procedure contracts
+- Building maintainable C# models for data-driven applications
+- Improving structure around SQL Server-backed business systems
+- Growing practical JavaScript and HTML reference material
 
 ---
 
