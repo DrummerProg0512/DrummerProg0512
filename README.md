@@ -45,7 +45,7 @@ My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean 
 ### 🔹 [OpenCrib](https://github.com/DrummerProg0512/OpenCrib)
 **Description:** Tools and consumables management application  
 **Primary language:** TSQL  
-**Updated:** 2026-07-26
+**Updated:** 2026-08-17
 
 ### 🔹 [ToolCrib.DB](https://github.com/DrummerProg0512/ToolCrib.DB)
 **Description:** ToolCrib Database  
@@ -55,7 +55,7 @@ My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean 
 ### 🔹 [DrummerProg0512](https://github.com/DrummerProg0512/DrummerProg0512)
 **Description:** Profile repository (this page)  
 **Primary language:** —  
-**Updated:** 2026-07-19
+**Updated:** 2026-08-18
 
 ### 🔹 [Simple-Encryption-Decryption-Tool.-ConsoleApp](https://github.com/DrummerProg0512/Simple-Encryption-Decryption-Tool.-ConsoleApp)
 **Description:** Simple C# console app for encryption/decryption workflow exploration  
@@ -75,7 +75,7 @@ My work centers around C#/.NET, SQL Server, T-SQL, stored procedures, and clean 
 ### 🔹 [my-javascript-cheatsheets](https://github.com/DrummerProg0512/my-javascript-cheatsheets)
 **Description:** JavaScript and HTML cheatsheet/reference repository  
 **Primary language:** JavaScript (77.9%), HTML (22.1%)  
-**Updated:** 2026-07-30
+**Updated:** 2026-08-02
 
 ---
 
