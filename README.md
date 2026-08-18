@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+<p align="center"><strong>Last updated: August 18, 2026</strong></p>
+
 ---
 
 ## 🚀 About Me
@@ -120,5 +122,3 @@ I also actively work on private repositories. Their details stay private, but cu
 
 ### 🔸 my-javascript-cheatsheets
 A compact collection of JavaScript examples and quick-reference notes to speed development and debugging.
-
-
